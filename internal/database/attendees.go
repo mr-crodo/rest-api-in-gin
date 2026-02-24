@@ -2,7 +2,7 @@ package database
 
 import "database/sql"
 
-type AttendeModel struct {
+type AttendeeModel struct {
 	DB *sql.DB
 }
 
